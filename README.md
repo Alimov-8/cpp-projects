@@ -1,5 +1,5 @@
 # C++ Projects
-## INHA Univeristy Freshman Year
+## INHA Univeristy Freshman Year 🏫🎓📔
 
 
 I uploaded my assignments and projects which I have done during the university studies. 
