@@ -1,0 +1,17 @@
+.DS_Store
+*.exe
+*.out
+*.o
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.sdf
+*.suo
+*.ipch
+*.tlog
+.vs/
+.vscode/
+.idea/
+Debug/
+Release/

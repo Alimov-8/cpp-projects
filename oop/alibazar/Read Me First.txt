@@ -1,0 +1,19 @@
+                                        /// Project Requirments /// 
+            
+              Sign in for Owner:
+ 
+   Login: Alimov808
+   Parol: Rustam202
+
+              Register For User:
+   
+   Name        ---->  Should be one big letter and small letters only
+   Tell Number ---->  Should be 7-9 numbers only
+   Login       ---->  Your choice
+   Password    ---->  Should be at least 5 small letters, 1 Big letter, 3 Number  
+
+
+
+              Concole Requirements
+  
+   In Screenshot pictures there is written  
