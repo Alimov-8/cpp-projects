@@ -2,8 +2,6 @@
 
 Artwork and audio from an Olaf game: menus, a map, two player images, obstacles, win and lose screens, loading frames, and music.
 
-The original archive contained this artwork and audio. It did not include the C++ source.
-
 ## Assets
 
 - Menus, help, quit, loading, win, and lose screens (`.jpg`)

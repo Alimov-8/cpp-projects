@@ -16,7 +16,7 @@ These programs were written in Visual Studio for the Windows console. Many of th
 | [Dinazavr Rex](games/dinazavr-rex) | A small dinosaur jump game with a score | Game loop, keyboard input |
 | [Tic-Tac-Toe](games/tic-tac-toe) | Two-player tic-tac-toe on a numbered board | Menus, game state |
 | [New Year Tree](games/new-year-tree) | Animated, colored console holiday tree | Console output, color |
-| [Olaf Game](games/olaf-game) | Artwork and audio for an Olaf game. The C++ source was not in the original archive | Assets |
+| [Olaf Game](games/olaf-game) | Artwork and audio for an Olaf game. | Assets |
 
 ## Object-oriented projects
 
@@ -27,7 +27,7 @@ These programs were written in Visual Studio for the Windows console. Many of th
 
 ## University labs
 
-Weekly assignments from two lab courses. Each week is one source file (a few weeks also keep the data files the program reads). Several files contain more than one exercise, with earlier exercises left in comments so only one `main` is active.
+Weekly assignments from two lab courses. Each week is one source file (a few weeks also keep the data files the program reads).
 
 | Course | Description | Concepts |
 | --- | --- | --- |
